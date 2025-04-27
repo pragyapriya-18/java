@@ -19,8 +19,8 @@ class C extends A {
     }
 }
 
-class Hierarchical {
-
+class Hierarchical
+{
     public static void main(String[] args) {
         B obj1 = new B();
         C obj2 = new C();
